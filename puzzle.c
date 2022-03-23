@@ -332,4 +332,4 @@ printf("XXXXXXX YOU HAVE ENTER WRONG NUMBER XXXXXX \n ");
 printf("The number you have imagined is %d ", Number);
 getch();
 }
-Output:-
+
